@@ -1,0 +1,5 @@
+{
+    "path": "C:\\DOTNET\\Modules\\Html\\Glintths.PEM\\Glintths.PEM.Base\\Scripts\\PEM",
+    "include": ".js",
+    "exclude": ".min.js"
+}

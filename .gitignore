@@ -1,0 +1,8 @@
+__pycache__/combinators.cpython-37.pyc
+__pycache__/grammar.cpython-37.pyc
+__pycache__/lexer.cpython-37.pyc
+__pycache__/parser_js.cpython-37.pyc
+parsers/__pycache__/__init__.cpython-37.pyc
+parsers/__pycache__/parser_js.cpython-37.pyc
+tokens.csv
+logs/errors.txt
